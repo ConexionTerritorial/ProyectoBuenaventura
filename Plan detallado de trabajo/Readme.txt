@@ -1,1 +1,2 @@
-Aqui estaran los planes detallados que se envian a la interventoria 
+Plan detallado de trabajo enviados a la interventoria.
+Actual (Versión 4) - 19/06/2023
